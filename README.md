@@ -13,6 +13,7 @@
 | 33 | [搜索旋转排序数组](./problems/0033-search-in-rotated-sorted-array.md) | 中等 | 二分查找 |
 | 88 | [合并两个有序数组](./problems/0088-merge-sorted-array.md) | 简单 | 逆向双指针 |
 | 141 | [环形链表](./problems/0141-linked-list-cycle.md) | 简单 | 哈希集合、快慢指针 |
+| 206 | [反转链表](./problems/0206-reverse-linked-list.md) | 简单 | 三指针、链表原地反转 |
 | 300 | [最长递增子序列](./problems/0300-longest-increasing-subsequence.md) | 中等 | 动态规划、贪心、二分查找 |
 | 347 | [前 K 个高频元素](./problems/0347-top-k-frequent-elements.md) | 中等 | 哈希表、桶排序 |
 | 424 | [替换后的最长重复字符](./problems/0424-longest-repeating-character-replacement.md) | 中等 | 滑动窗口、频次统计 |
