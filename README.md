@@ -9,6 +9,7 @@
 | 3 | [无重复字符的最长子串](./problems/0003-longest-substring-without-repeating-characters.md) | 中等 | 滑动窗口、哈希表 |
 | 5 | [最长回文子串](./problems/0005-longest-palindromic-substring.md) | 中等 | 中心扩展 |
 | 23 | [合并 K 个升序链表](./problems/0023-merge-k-sorted-lists.md) | 困难 | 最小堆、分治 |
+| 25 | [K 个一组翻转链表](./problems/0025-reverse-nodes-in-k-group.md) | 困难 | 链表分组、指针翻转 |
 | 33 | [搜索旋转排序数组](./problems/0033-search-in-rotated-sorted-array.md) | 中等 | 二分查找 |
 | 88 | [合并两个有序数组](./problems/0088-merge-sorted-array.md) | 简单 | 逆向双指针 |
 | 141 | [环形链表](./problems/0141-linked-list-cycle.md) | 简单 | 哈希集合、快慢指针 |
