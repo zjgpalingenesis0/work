@@ -14,5 +14,6 @@
 | 141 | [环形链表](./problems/0141-linked-list-cycle.md) | 简单 | 哈希集合、快慢指针 |
 | 300 | [最长递增子序列](./problems/0300-longest-increasing-subsequence.md) | 中等 | 动态规划、贪心、二分查找 |
 | 347 | [前 K 个高频元素](./problems/0347-top-k-frequent-elements.md) | 中等 | 哈希表、桶排序 |
+| 528 | [按权重随机选择](./problems/0528-random-pick-with-weight.md)（⚠️ 待加强：题意与调用格式） | 中等 | 前缀和、二分查找 |
 | 1074 | [元素和为目标值的子矩阵数量](./problems/1074-number-of-submatrices-that-sum-to-target.md) | 困难 | 二维降维、前缀和、哈希表 |
 
