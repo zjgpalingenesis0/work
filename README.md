@@ -10,6 +10,7 @@
 | 5 | [最长回文子串](./problems/0005-longest-palindromic-substring.md) | 中等 | 中心扩展 |
 | 23 | [合并 K 个升序链表](./problems/0023-merge-k-sorted-lists.md) | 困难 | 最小堆、分治 |
 | 33 | [搜索旋转排序数组](./problems/0033-search-in-rotated-sorted-array.md) | 中等 | 二分查找 |
+| 88 | [合并两个有序数组](./problems/0088-merge-sorted-array.md) | 简单 | 逆向双指针 |
 | 141 | [环形链表](./problems/0141-linked-list-cycle.md) | 简单 | 哈希集合、快慢指针 |
 | 300 | [最长递增子序列](./problems/0300-longest-increasing-subsequence.md) | 中等 | 动态规划、贪心、二分查找 |
 | 347 | [前 K 个高频元素](./problems/0347-top-k-frequent-elements.md) | 中等 | 哈希表、桶排序 |
