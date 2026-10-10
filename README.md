@@ -13,6 +13,7 @@
 | 23 | [合并 K 个升序链表](./problems/0023-merge-k-sorted-lists.md) | 困难 | 最小堆、分治 |
 | 25 | [K 个一组翻转链表](./problems/0025-reverse-nodes-in-k-group.md) | 困难 | 链表分组、指针翻转 |
 | 33 | [搜索旋转排序数组](./problems/0033-search-in-rotated-sorted-array.md) | 中等 | 二分查找 |
+| 53 | [最大子数组和](./problems/0053-maximum-subarray.md) | 中等 | 动态规划、Kadane 算法 |
 | 54 | [螺旋矩阵](./problems/0054-spiral-matrix.md) | 中等 | 边界模拟 |
 | 56 | [合并区间](./problems/0056-merge-intervals.md) | 中等 | 排序、贪心 |
 | 88 | [合并两个有序数组](./problems/0088-merge-sorted-array.md) | 简单 | 逆向双指针 |
