@@ -13,6 +13,7 @@
 | 25 | [K 个一组翻转链表](./problems/0025-reverse-nodes-in-k-group.md) | 困难 | 链表分组、指针翻转 |
 | 33 | [搜索旋转排序数组](./problems/0033-search-in-rotated-sorted-array.md) | 中等 | 二分查找 |
 | 54 | [螺旋矩阵](./problems/0054-spiral-matrix.md) | 中等 | 边界模拟 |
+| 56 | [合并区间](./problems/0056-merge-intervals.md) | 中等 | 排序、贪心 |
 | 88 | [合并两个有序数组](./problems/0088-merge-sorted-array.md) | 简单 | 逆向双指针 |
 | 102 | [二叉树的层序遍历](./problems/0102-binary-tree-level-order-traversal.md) | 中等 | 广度优先搜索、队列 |
 | 141 | [环形链表](./problems/0141-linked-list-cycle.md) | 简单 | 哈希集合、快慢指针 |
