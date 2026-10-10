@@ -17,6 +17,7 @@
 | 88 | [合并两个有序数组](./problems/0088-merge-sorted-array.md) | 简单 | 逆向双指针 |
 | 102 | [二叉树的层序遍历](./problems/0102-binary-tree-level-order-traversal.md) | 中等 | 广度优先搜索、队列 |
 | 141 | [环形链表](./problems/0141-linked-list-cycle.md) | 简单 | 哈希集合、快慢指针 |
+| 143 | [重排链表](./problems/0143-reorder-list.md) | 中等 | 快慢指针、反转链表、交替合并 |
 | 206 | [反转链表](./problems/0206-reverse-linked-list.md) | 简单 | 三指针、链表原地反转 |
 | 300 | [最长递增子序列](./problems/0300-longest-increasing-subsequence.md) | 中等 | 动态规划、贪心、二分查找 |
 | 347 | [前 K 个高频元素](./problems/0347-top-k-frequent-elements.md) | 中等 | 哈希表、桶排序 |
