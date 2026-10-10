@@ -6,6 +6,7 @@
 
 | 题号 | 题目 | 难度 | 核心方法 |
 | --- | --- | --- | --- |
+| 1 | [两数之和](./problems/0001-two-sum.md) | 简单 | 哈希表 |
 | 3 | [无重复字符的最长子串](./problems/0003-longest-substring-without-repeating-characters.md) | 中等 | 滑动窗口、哈希表 |
 | 5 | [最长回文子串](./problems/0005-longest-palindromic-substring.md) | 中等 | 中心扩展 |
 | 19 | [删除链表的倒数第 N 个结点](./problems/0019-remove-nth-node-from-end-of-list.md) | 中等 | 快慢指针、虚拟头节点 |
