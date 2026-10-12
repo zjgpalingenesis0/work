@@ -30,5 +30,6 @@
 | 437 | [路径总和 III](./problems/0437-path-sum-iii.md) | 中等 | 树上前缀和、哈希表、回溯 |
 | 442 | [数组中重复的数据](./problems/0442-find-all-duplicates-in-an-array.md) | 中等 | 哈希集合、原地正负标记 |
 | 528 | [按权重随机选择](./problems/0528-random-pick-with-weight.md)（⚠️ 待加强：题意与调用格式） | 中等 | 前缀和、二分查找 |
+| 698 | [划分为 K 个相等的子集](./problems/0698-partition-to-k-equal-sum-subsets.md) | 中等 | 回溯、桶分配、剪枝 |
 | 1074 | [元素和为目标值的子矩阵数量](./problems/1074-number-of-submatrices-that-sum-to-target.md) | 困难 | 二维降维、前缀和、哈希表 |
 
