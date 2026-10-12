@@ -21,6 +21,7 @@
 | 102 | [二叉树的层序遍历](./problems/0102-binary-tree-level-order-traversal.md) | 中等 | 广度优先搜索、队列 |
 | 141 | [环形链表](./problems/0141-linked-list-cycle.md) | 简单 | 哈希集合、快慢指针 |
 | 143 | [重排链表](./problems/0143-reorder-list.md) | 中等 | 快慢指针、反转链表、交替合并 |
+| 200 | [岛屿数量](./problems/0200-number-of-islands.md) | 中等 | 深度优先搜索、网格遍历 |
 | 206 | [反转链表](./problems/0206-reverse-linked-list.md) | 简单 | 三指针、链表原地反转 |
 | 215 | [数组中的第 K 个最大元素](./problems/0215-kth-largest-element-in-an-array.md) | 中等 | 最小堆、快速选择 |
 | 300 | [最长递增子序列](./problems/0300-longest-increasing-subsequence.md) | 中等 | 动态规划、贪心、二分查找 |
